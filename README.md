@@ -3,5 +3,5 @@
 <p align="center">
   🔭 I’m currently working on: <strong>Software Development in JavaScript @ Northcoders</strong><br>
   <br>
-  📫 How to reach me: <strong><a href=mailto:contact@jakr-s.dev>contact@jakr-s.dev</a></strong>
+  📫 <strong><a href=mailto:contact@jakr-s.dev>contact@jakr-s.dev</a></strong>
 </p>
