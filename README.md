@@ -1,6 +1,6 @@
 <h1 align="center">I'm Jak 👋</h1>
 
-<h3 align="center">Working through the Full-Stack Engineer course @ codecademy</h3>
+<h2 align="center">🔭 I’m currently working on Software Development Bootcamp in JavaScript @ Northcoders</h3>
 
 <p align="center">
   🌱 I’m currently learning: <strong>JavaScript, Python, React</strong><br>
