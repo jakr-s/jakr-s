@@ -2,7 +2,9 @@
   
 ### 👋 Hi I'm Jak
 
-#### 🌱 Currently learning **TypeScript & React**
+#### 🥷 Dev in training
+
+#### 🌱 Currently learning **TypeScript & React Native**
 <hr>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px"/>
